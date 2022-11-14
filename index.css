@@ -1,0 +1,85 @@
+body{
+    background-color: #faf4f4;
+}
+
+header{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.container_header{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+}
+
+.icono_header{
+    justify-content: center;
+    padding-right: 10px;
+    padding-top: 5px;
+
+}
+
+.form-control me-2{
+padding-right: 20px;
+align-self: center;
+justify-self: center;
+}
+
+
+.carrito{
+    padding-top:  7px;
+    justify-content: center;
+}
+
+.nav_Botonera_principal{
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav_Home{
+    padding-right: 20px;
+}
+
+.nav_Maquillaje{
+    padding-right: 20px;
+}
+
+.nav_Perfumes{
+    padding-right: 20px;
+}
+
+.nav_Cuerpo{
+    padding-right: 20px;
+}
+
+.nav_Hogar{
+    padding-right: 20px;
+}
+
+.nav_Moda{
+    padding-right: 20px;
+}
+
+.nav_Oferta{
+    padding-right: 20px;
+}
+
+.nav_Outlet{
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+/** Sacar puntos de la lista de iconos del footergit  */
+ul{
+    list-style: none;
+}
