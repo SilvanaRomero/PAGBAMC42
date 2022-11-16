@@ -80,14 +80,13 @@ width: 60px;
 }
 
 .Titulo{
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Dancing Script', cursive;
     justify-content: center;
 }
 
 .envio{
     display: flex;
-    font-family: 'BhuTuka Expanded One', cursive;
-    font-size: xx-small;
+    font-family: 'Montserrat', sans-serif;
     padding: 20px;
     justify-content: center;
 }
