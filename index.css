@@ -40,6 +40,7 @@ width: 60px;
 
 .nav_Botonera_principal{
     display:flex;
+    flex-wrap: wrap;
     justify-content: center;
     padding-top: 5px;
     padding-bottom: 20px;
